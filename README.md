@@ -1,6 +1,6 @@
 # Google 1998 Clone
 
-Bu repo [Kodluyoruz](https://www.patika.dev) Front-End Eğitiminde ödev olarak yapmış olduğum Google 1998 Clone uygulaması.
+Bu repo [Patika.Dev](https://www.patika.dev) Front-End Eğitiminde ödev olarak yapmış olduğum Google 1998 Clone uygulaması.
 
 ![github](img/google1998Image.PNG)
 
